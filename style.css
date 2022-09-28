@@ -19,7 +19,7 @@ header{
 nav{
 	background-color: #444791;
 	height: 20px;
-	padding: 5px 60px 5px 60px;
+	padding: 5px 60px 5px 0px;
 }
 
 #div_main{
@@ -75,7 +75,7 @@ footer{
 }
 
 h1{
-	color: #D9A4AA;
+	color: #FFFFFF;
 	font-size: 48px;
 }
 
